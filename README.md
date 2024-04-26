@@ -1,6 +1,7 @@
 # Sales-Analysis-Superstore
 
-**LINK TO THE DASHBOARD**  https://public.tableau.com/views/SalesAnalysis-Superstore_17139953548870/SuperstoreSalesStory?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
+**LINK TO THE DASHBOARD**  
+https://public.tableau.com/views/SalesAnalysis-Superstore_17139953548870/SuperstoreSalesStory?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
 
 
 ### Overview
