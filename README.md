@@ -1,6 +1,9 @@
 # Sales-Analysis-Superstore
-Superstore Sales Analysis
-Overview
+
+**LINK TO THE DASHBOARD**  https://public.tableau.com/views/SalesAnalysis-Superstore_17139953548870/SuperstoreSalesStory?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
+
+
+### Overview
 This Tableau project provides an in-depth analysis of sales data from a Superstore, aiming to uncover key insights and trends to support strategic decision-making. The dataset used includes sales records spanning a defined period, comprising various attributes such as product categories, customer segments, geographic regions, and sales performance metrics.
 
 ### Steps Taken
