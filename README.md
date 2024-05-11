@@ -4,8 +4,8 @@
 This Tableau project provides an in-depth analysis of sales data from a Superstore, aiming to uncover key insights and trends to support strategic decision-making. The dataset used includes sales records spanning a defined period, comprising various attributes such as product categories, customer segments, geographic regions, and sales performance metrics.
 
 
-**LINK TO THE DASHBOARD**  
-https://public.tableau.com/views/SalesAnalysis-Superstore_17139953548870/SuperstoreSalesStory?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
+**[LINK TO THE DASHBOARD](https://public.tableau.com/views/SalesAnalysis-Superstore_17139953548870/SuperstoreSalesStory?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)**  
+
 
 ![Superstore Sales Story_page-0001](https://github.com/sushmitafordata/Sales-Analysis-Superstore-Tableau/assets/135410984/83b409a1-44c0-450f-913e-4f71a36ce6e0)
 
